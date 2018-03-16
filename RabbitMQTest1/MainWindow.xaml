@@ -3,6 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="650" Width="850">
     <Grid>
-        
+        <TextBox x:Name="TextBoxName" Width="100" Height="50" Text="Update Name"></TextBox>
     </Grid>
 </Window>
