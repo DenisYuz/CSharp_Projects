@@ -6,6 +6,7 @@
         <StackPanel Orientation="Horizontal">
         <TextBlock Width="100" Height="50" Text="Name:"></TextBlock>
         <TextBox x:Name="TextBoxName" Width="100" Height="50" Text="Denis"></TextBox>
+            <ProgressBar Width="400" Height="50" Value="50"></ProgressBar>
         </StackPanel>
     </Grid>
 </Window>
